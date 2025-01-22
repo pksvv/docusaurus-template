@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkglobaltax=self.webpackChunkglobaltax||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/docusaurus-template/blog","blogTitle":"Blog","authorsListPath":"/docusaurus-template/blog/authors"}')}}]);
